@@ -163,17 +163,38 @@
     grid.innerHTML = items
       .map((n) => {
         const dateStr = formatDate(n.pubDate);
+        const img = n.imageUrl || ""; // si viene, genial; si no, fallback
         return `
-          <article class="card glass newsCard ">
-            <div class="newsCard__top">
-              <span class="newsBadge"><span class="newsBadge__dot"></span>${escapeHtml(n.category)}</span>
-              <span class="chip">${escapeHtml(n.source || "Fuente")}</span>
+      <article class="card glass newsCard">
+        <div class="newsThumb">
+          ${
+            img
+              ? `<img src="${img}" alt="" loading="lazy" />`
+              : `<div class="newsThumb__fallback">🛟</div>`
+          }
+        </div>
+
+        <div class="newsBody">
+          <div class="newsCard__top">
+            <span class="newsBadge"><span class="newsBadge__dot"></span>${escapeHtml(n.category)}</span>
+            <span class="chip">${escapeHtml(n.source || "Fuente")}</span>
+          </div>
+
+          <h3 class="newsTitle">${escapeHtml(n.title)}</h3>
+
+          <div class="newsMeta">
+            <div class="newsMetaLeft">
+              <span>🕒 ${escapeHtml(dateStr)}</span>
             </div>
-            <h3 class="newsTitle">${escapeHtml(n.title)}</h3>
-            <div class="newsMeta"><span>🕒 ${escapeHtml(dateStr)}</span></div>
-            <a class="link newsLink" href="${n.link}" target="_blank" rel="noopener">Leer noticia →</a>
-          </article>
-        `;
+
+            <a class="newsCta" href="${n.link}" target="_blank" rel="noopener">
+              <span class="newsCtaIcon">↗</span>
+              Leer noticia
+            </a>
+          </div>
+        </div>
+      </article>
+    `;
       })
       .join("");
   }
@@ -182,7 +203,7 @@
     try {
       statusEl.textContent = "Cargando noticias…";
 
-      const url = bustCache ? `assets/news.json?v=${Date.now()}` : `assets/news.json`;
+      const url = bustCache ? `./assets/news.json?v=${Date.now()}` : `assets/news.json`;
 
       const res = await fetch(url, { cache: "no-store" });
       if (!res.ok) throw new Error(`HTTP ${res.status}`);
