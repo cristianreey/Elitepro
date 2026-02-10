@@ -20,9 +20,9 @@ const FEEDS = [
   },
 ];
 
-const OUT_FILE = "./assets/news.json";
+const OUT_FILE = "assets/news.json";
 const MAX_ITEMS = 12;
-const HOURS = 168; // 7 días (para que casi nunca quede vacío)
+const HOURS = 168; // 7 días
 
 function stripCdata(s) {
   return (s || "").replace("<![CDATA[", "").replace("]]>", "").trim();
@@ -39,6 +39,22 @@ function pickAllItems(xml) {
   let m;
   while ((m = re.exec(xml))) items.push(m[1]);
   return items;
+}
+
+function pickImage(itemXml) {
+  // media:thumbnail url="..."
+  let m = itemXml.match(/<media:thumbnail[^>]*url="([^"]+)"/i);
+  if (m) return m[1];
+
+  // media:content url="..."
+  m = itemXml.match(/<media:content[^>]*url="([^"]+)"/i);
+  if (m) return m[1];
+
+  // enclosure url="..."
+  m = itemXml.match(/<enclosure[^>]*url="([^"]+)"/i);
+  if (m) return m[1];
+
+  return "";
 }
 
 function toTs(pubDate) {
@@ -65,7 +81,7 @@ async function fetchRssWithFallback(rssUrl) {
   const direct = await fetchText(rssUrl);
   if (pickAllItems(direct).length > 0) return { xml: direct, via: "direct" };
 
-  // 2) Fallback: Jina mirror (evita consent/HTML)
+  // 2) Fallback Jina (evita consent/HTML)
   const mirrored = rssUrl.startsWith("https://")
     ? `https://r.jina.ai/http://${rssUrl.replace("https://", "")}`
     : `https://r.jina.ai/http://${rssUrl.replace("http://", "")}`;
@@ -83,14 +99,14 @@ async function main() {
   for (const feed of FEEDS) {
     const { xml, via } = await fetchRssWithFallback(feed.url);
     const items = pickAllItems(xml);
-
-    console.log(`Feed "${feed.category}" via ${via} -> items encontrados: ${items.length}`);
+    console.log(`Feed "${feed.category}" via ${via} -> items: ${items.length}`);
 
     for (const it of items) {
       const title = pick("title", it);
       const link = pick("link", it);
       const pubDate = pick("pubDate", it);
       const source = pick("source", it) || "Google News";
+      const imageUrl = pickImage(it);
 
       const ts = toTs(pubDate);
       if (!title || !link || !ts) continue;
@@ -102,12 +118,12 @@ async function main() {
         link,
         source,
         pubDate,
+        imageUrl,
         ts,
       });
     }
   }
 
-  // Orden + dedupe
   all.sort((a, b) => b.ts - a.ts);
 
   const seen = new Set();
@@ -130,9 +146,8 @@ async function main() {
 
   console.log(`OK -> ${OUT_FILE} (${payload.items.length} items)`);
 
-  // Si no hay items, hacemos fallar el workflow para que lo veas en Actions
   if (payload.items.length === 0) {
-    throw new Error("news.json generado SIN noticias (items = 0). Revisa feeds/keyword.");
+    throw new Error("news.json generado SIN noticias (items=0). Revisa feeds/keywords.");
   }
 }
 
