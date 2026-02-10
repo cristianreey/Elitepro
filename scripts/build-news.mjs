@@ -20,9 +20,9 @@ const FEEDS = [
   },
 ];
 
-const OUT_FILE = "assets/news.json";
-const MAX_ITEMS = 12; // cuantos titulares guardar
-const HOURS = 72; // ventana de "reciente" (sube si quieres más)
+const OUT_FILE = "./assets/news.json";
+const MAX_ITEMS = 12;
+const HOURS = 168; // 7 días (para que casi nunca quede vacío)
 
 function stripCdata(s) {
   return (s || "").replace("<![CDATA[", "").replace("]]>", "").trim();
@@ -52,9 +52,26 @@ async function fetchText(url) {
       "User-Agent": "ElitePRO-News-Bot/1.0",
       Accept: "application/rss+xml, application/xml;q=0.9,*/*;q=0.8",
     },
+    redirect: "follow",
   });
-  if (!res.ok) throw new Error(`Fetch failed ${res.status} for ${url}`);
-  return await res.text();
+
+  const text = await res.text();
+  if (!res.ok) throw new Error(`Fetch failed ${res.status} for ${url}\n${text.slice(0, 200)}`);
+  return text;
+}
+
+async function fetchRssWithFallback(rssUrl) {
+  // 1) Directo
+  const direct = await fetchText(rssUrl);
+  if (pickAllItems(direct).length > 0) return { xml: direct, via: "direct" };
+
+  // 2) Fallback: Jina mirror (evita consent/HTML)
+  const mirrored = rssUrl.startsWith("https://")
+    ? `https://r.jina.ai/http://${rssUrl.replace("https://", "")}`
+    : `https://r.jina.ai/http://${rssUrl.replace("http://", "")}`;
+
+  const viaJina = await fetchText(mirrored);
+  return { xml: viaJina, via: "jina" };
 }
 
 async function main() {
@@ -64,8 +81,10 @@ async function main() {
   const all = [];
 
   for (const feed of FEEDS) {
-    const xml = await fetchText(feed.url);
+    const { xml, via } = await fetchRssWithFallback(feed.url);
     const items = pickAllItems(xml);
+
+    console.log(`Feed "${feed.category}" via ${via} -> items encontrados: ${items.length}`);
 
     for (const it of items) {
       const title = pick("title", it);
@@ -88,10 +107,12 @@ async function main() {
     }
   }
 
-  // quitar duplicados por link
+  // Orden + dedupe
+  all.sort((a, b) => b.ts - a.ts);
+
   const seen = new Set();
   const uniq = [];
-  for (const n of all.sort((a, b) => b.ts - a.ts)) {
+  for (const n of all) {
     if (seen.has(n.link)) continue;
     seen.add(n.link);
     uniq.push(n);
@@ -108,6 +129,11 @@ async function main() {
   await writeFile(OUT_FILE, JSON.stringify(payload, null, 2), "utf8");
 
   console.log(`OK -> ${OUT_FILE} (${payload.items.length} items)`);
+
+  // Si no hay items, hacemos fallar el workflow para que lo veas en Actions
+  if (payload.items.length === 0) {
+    throw new Error("news.json generado SIN noticias (items = 0). Revisa feeds/keyword.");
+  }
 }
 
 main().catch((e) => {
