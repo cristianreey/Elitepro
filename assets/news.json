@@ -1,13 +1,85 @@
 {
-  "updatedAt": "2026-02-13T02:25:19.107Z",
+  "updatedAt": "2026-02-13T07:01:09.579Z",
   "hoursWindow": 168,
   "items": [
+    {
+      "category": "Deporte",
+      "title": "Paco Lorenzo, leyenda del deporte de Rivas: \"Me propuse participar en todas las competiciones del mundo… Y mira, lo he conseguido\" - Diario de Rivas",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5ULXV6enc2bk1ObHhlenV3WUFmd3JNYTRkNkdpSkY4ZDM1LXJESExsLTRxRW5hVmpGemtyVGJ4Z2xNcHNHNFdQMWNEUmRfUHV5VlhFZzRZanNnM1RRUlEzNHFjTUd5cFNBam5CVXpR?oc=5",
+      "source": "Diario de Rivas",
+      "pubDate": "Fri, 13 Feb 2026 06:57:18 GMT",
+      "imageUrl": ""
+    },
+    {
+      "category": "Deporte",
+      "title": "Deporte y solidaridad en la XIV Carrera Monumental de Segovia - El Adelantado",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNSHVEUGNlbEFNd1hmX0k2VXBHRTVtRTBkSEFGYXdCZHlJRDJrNzRWbm5LTzVVR2tLeW9qdXFGallTVTVBeld0ajZWSDJhUjJvVHhEcVJBRkRBRElKODl1cUVRRjNQYmVTZlNSSTlLcnVTMjFqbHdWUEE2ckc2TV8zX3MxV3AyR2N5V0FONS1fdjBUWnRmSXVDV09mMjZ5LVJUT1lieGpZX2Y3X00?oc=5",
+      "source": "El Adelantado",
+      "pubDate": "Fri, 13 Feb 2026 05:08:42 GMT",
+      "imageUrl": ""
+    },
+    {
+      "category": "Deporte",
+      "title": "La ciudad es este fin de semana la capital de la natación nacional - Faro de Vigo",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQaXBUZk5qM25Xa1R2bVRxTTI0czdwbmNRMXVmR2U3Z1ljdUtLeHBtaUpEbGhCOTJqczRUd1RmSTlfT1MweTR0dDI1bzVZQlpYZnZBbmptZU5rNXhlMi05d3BPb29LcGpLRWFlMnpiUzBwdVl4YXpIaENrbjhVUHdaY2JUVzYtQUxtN0Q5UF9zeFU2bnNCMFJFSHpPektiV0hJdDhPMUVhbFBrQk1PbzFQVdIBtgFBVV95cUxPWEdlcjFsNm9fN2REMGwxUVZKUkd2LWFlUlhQTDVTRHlKSjFJZHZYNzZkeXd2RFJPaWZWWWxKVHFOYjNWQUhHd0xrLXNFaUFLQ0F5N25BSnhQTXlqSUdjREl6ZXF5QjZuZEFDZlBEUXc5WUVQZ2FsZjZmczQ3U21EU3hlcDd1WkFUR3h4c0RxUUJsZGIyanYwZ2plQ2VXdW9QNmpPbDR4U2pYMC1ueHluMGJXdDBkdw?oc=5",
+      "source": "Faro de Vigo",
+      "pubDate": "Fri, 13 Feb 2026 05:01:38 GMT",
+      "imageUrl": ""
+    },
+    {
+      "category": "Deporte",
+      "title": "Homenaje en la sede del Celta a José Ramón Lete por sus años al frente de la secretaría xeral para ó Deporte - Faro de Vigo",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOUjNCenhWM2t5djlDd3JOMmg4OGFaaEVSWmlpVk1HWkh6Yk40ZzFIMFVjbWJZZDNyVWNDSlhwYjJZQzB2aEx4WmxVUVd2T20zUlpwQjU4THBpLVFCX0RfWDBuQW56Mklxd2R2TFU4Y3hCU1dnbkMzNWhGRmwxS2xhazE1R2RMbXduTVh6ODF6cGdueFlqanfSAZsBQVVfeXFMT3hVb1NacVRWcldndjdwMENzZF9xOWtHbERCTWZKTFVva0twQlNKTERZN3lMSEt5aEJzVUpoQU1QcGI5QkJYTDBVR1k5VDVEclZ3MUtzWVR4MkR3aVlCVWJmNXRRVmpzUG53WHFhV29oRGVWQldBSWY4dnhyQ1FNVmUyb1drendOaWNKRFNyTkNya2xBN0pndW9EcUU?oc=5",
+      "source": "Faro de Vigo",
+      "pubDate": "Fri, 13 Feb 2026 05:01:32 GMT",
+      "imageUrl": ""
+    },
+    {
+      "category": "Deporte",
+      "title": "La agenda del deporte cordobés: Un San Valentín de pasiones en El Arcángel - elDiario.es",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNQXEzZ2g0Vk5WQmhSbTFDcUxUSXlTMVFTbHFEQkEzbVQxaVpQTWRpVmE2YWE4SU9YZnFGMmNSU1VUUzIzNzhLcHVCYzJxenVoZlF4UFVWT2piTzJpREFab3BDcHl3b2VjUU10TGRYMW8xb1N4SmhOUzBvRXlsN0tqYkVhNVJtN3dNNFZkT1JPa0JhVDBRbU9YVm9pMnBPUTBKLTlKUlVnSGtlamFuMDltSV9zTlNWQVdjVnlIOUFtWWxaZw?oc=5",
+      "source": "elDiario.es",
+      "pubDate": "Fri, 13 Feb 2026 04:16:56 GMT",
+      "imageUrl": ""
+    },
+    {
+      "category": "Socorrismo",
+      "title": "El Trofeo Ciudad de Palencia regresa con 328 inscritos - Diario Palentino",
+      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQSWMyNXFoYmk2ZkRTVGZKOFFmU05maVA1Z1p6SHZWOXZLZkY2VFBkSHg4c0VxVmJ5UTd0U1RxY21iZHhlQm1wdGhURE1vS0REeWVOZk5jQmUtOFpZckJJaWZBQjBpYndTYkd2VlBENGFuZW52emlDYU93S1JuVGh2NXpxQ2R1NVYtT0dMNGF0em1iQ3ZhbjlwSTlrdGktck5ma2pIcGpWN3FtblpfaFdFdFNHZUdIc2x4dUVCMmlUQXE5UjlBRXdCY0Q2eXJGUVlET2J3?oc=5",
+      "source": "Diario Palentino",
+      "pubDate": "Fri, 13 Feb 2026 04:00:00 GMT",
+      "imageUrl": ""
+    },
+    {
+      "category": "Deporte",
+      "title": "El polémico skimo: así es el deporte de moda que puede llevar a España a la gloria olímpica - El Confidencial",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQWXpidnMwTVY0MDVraGVFQVNhUTk1bDBKODRPb0h6YnBZejJhNmlwNEpIdnZGOWo4djRzaVZKZk9rWG1hMEVkc1ZoT0lqQzJ1U2U4V2pXazBzOFNJbzhDLTVjRnRva3NNQm90R2x3VjBfcElERGNNN19mUGdCdE0wRndGU2pBN25SZnl0M2M1RnFSQjY3YXZJajFKV2plTG94V3NXYVpyb0xjcHpITmtXcy1Lb1ZJSHExMnc?oc=5",
+      "source": "El Confidencial",
+      "pubDate": "Fri, 13 Feb 2026 04:00:00 GMT",
+      "imageUrl": ""
+    },
+    {
+      "category": "Deporte",
+      "title": "Teresa Messia publica El partido de mi vida, una obra sobre la gestión emocional en el deporte y la vida - GIRONANOTICIES.COM",
+      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOclhyWXA3TkRMWHcyVmdRN3FtYlhnVW1UT1dSNmJJajFXSWowVDZxeHd0VVhSelNtODhhVTdESmhsTHB2MjM4VUZrODcyckM0VHZaTFhZY09mOG45d3pIWFRIMTQ0clI2UGJ5VHR1UGttTUExb1FFV05CZHJlQUlWT2VtSE9hLW5NVUxaYnhpVk5xOHdYd3lUbHhUam1TazVHbmd0R1lFTnI3bFFCOXJrTXlVVVpXa2ZWQmVDdi1jQWdrQWRBdVhRbnlsRGhwb2RRUmM4ekpob2x4YTRrWG5FbVo3VQ?oc=5",
+      "source": "GIRONANOTICIES.COM",
+      "pubDate": "Fri, 13 Feb 2026 03:01:20 GMT",
+      "imageUrl": ""
+    },
     {
       "category": "Deporte",
       "title": "Deporte hoy en TV: fútbol, baloncesto, balonmano y todo lo que no te puedes perder este fin de semana - Mundo Deportivo",
       "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxObFBWTDdWcmllelBacC1MYlVwWWNJU2daYS1ydnFBcThfdDhtV1huTENEcmNGVk1YZVpkVGpabjdQQjBSVnM5dWhWY0pmV19yaXQ4SEpkWlA0MGRBODJpd3B1S1ZEbHNxX3NGMG5LemJPcmYtM2JRV1dsRnpOSjhfUEhVY05wcXlwRjdlTWpBVFJ2dk9ZOGEybGtoR0JpeEt4dkRFblBKZHl1ejBwZkR1LVJOdHh4SUR5Yml5R0htLTFrYjJENzJhUng0NNIB2AFBVV95cUxNR1U4Ni1pZ21KOVZxZGhNaDY0elRKUnRWOXFsNG56eFZmX2s4VUpIcDBMSlMxR19sNW9LU0E0aV9FaEsyMWJxcUFYYURCOUFnYnpTdUg4SzE5c2NBZUxJRTZmTUFObm9TMTYybEMtcmdqb1FaUnlZVUhDb1pYZzlQX3pzRTBjaUFfQkk4eDJwdG5jZnhITlNVV1JrT0ptRW81cW16Q0dBTENqaDRfV1F0OUd4OUJyaGxlQkdiREJwdUxJdnpjM1dqNGFkckNadHlJd25xQ3pOSlY?oc=5",
       "source": "Mundo Deportivo",
       "pubDate": "Fri, 13 Feb 2026 01:20:44 GMT",
+      "imageUrl": ""
+    },
+    {
+      "category": "Socorrismo",
+      "title": "25 deportistas abulenses competirán en el XVI Trofeo de Salvamento y Socorrismo Ciudad de Palencia - Deportes Ávila",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOV3EtM1pFNnVZQ05rY29GMDlzMC1VMWJNN3c3WTF2d1RyRmptRDdiZXF3NWhJUElQVlBMS1pleG9ockYyMDhWbE4zTF95N3JHRmRVekx2QkEzaW9YQ3dJbF83aEg3X1FjQWt1QmE2LV8xSDRXVG9iaTlCRDZnNGV2NjM0a2hXQnB4cmlTNEpSZTR5Tk9ZeVhSTU9hZ01xVnEzWi1JQmdDbzFXODRQaWFybnlhWFg1bVJyZTMwc1BKbUo?oc=5",
+      "source": "Deportes Ávila",
+      "pubDate": "Fri, 13 Feb 2026 01:01:20 GMT",
       "imageUrl": ""
     },
     {
@@ -24,78 +96,6 @@
       "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOYks0dnNiX1cwLXU2cVByYnF5Q0dOanFiR1JXdGNYc01EQW1kX1dra2l5blppaWVNVXllQ0ROVkZwNGtJQmtBMDd1S1N2OXc0SEd2dEFXbEtjb2xhazdNX0syM1pyekE4VktrZUJjWnY3RnBfNXFvUXhHOFluaGU2VzJVZFlBMS1taHJpNEVkTzJUT3Q4S2dJWHRaQlhvcldLcVBwOHJtVlBReVhiZmNEUFRJSFVPaVVxcnhsSml3?oc=5",
       "source": "El Burgado Digital",
       "pubDate": "Fri, 13 Feb 2026 00:56:22 GMT",
-      "imageUrl": ""
-    },
-    {
-      "category": "Deporte",
-      "title": "XXVII Cross de Rivas: deporte y naturaleza en el parque Barcavieja - Diario de Rivas",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5EM3VZSElFSHRiWllpUE5PcmxpUzM1VjhZSlIwTXRybmt4X1M3T2RUSWl5MnVqSk9adEZtNVY5dVhVQXhUcy13SkFUakNGT0I2NGRZVjdnRjkyZ1M5YkZV?oc=5",
-      "source": "Diario de Rivas",
-      "pubDate": "Thu, 12 Feb 2026 23:53:36 GMT",
-      "imageUrl": ""
-    },
-    {
-      "category": "Deporte",
-      "title": "Cuando el cuerpo dice basta: la incapacidad permanente en el deporte profesional - Law&amp;Trends",
-      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNdmhzeVBVZHNTclF5TkQ2WmttZWlBRjVxSzRWNllpQjFtd0ozS1JxeGo1VVNCb2JWR3AxT1VNMzd2bHdkTEdNTFU2aHdXVFA4UWQ2Sk9fM3VuWi1fdC10ck95OFoxbUFQZTljM2pCUHlTejJzZ0FQMDh4c2NUcmVLSkdoZ01PVWE1NzEyMVZKeEFJZ2JqMGQtUWNxYmdwOUc5UDRLS3R4R3ExWWFpVWU0THMxcEh3VjRPZS1GYlRzb2doUm9JTzlpc3dhMmc?oc=5",
-      "source": "Law&amp;Trends",
-      "pubDate": "Thu, 12 Feb 2026 23:46:00 GMT",
-      "imageUrl": ""
-    },
-    {
-      "category": "Deporte",
-      "title": "La Capital Mediterránea del Deporte ya tiene casa en la Plaza de Baix - vivirenelche.com",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNWUNoeWlYb3Y1aGViVnhlR2JKMzdXSmFnWTdqQ25DWEdFUzcyejF3T3UtQ0FDbkFZZzZfc3F6bW1xS28taDM0R2ExejlxbWNfMjdaV0pxR2FtZXZkdnlRSGxrbFJQVWdGOXYtcmlyeEkzOGtYRlZFdWJ4V0YwWUpCNk1kLUpIZXotUWZuaDJ1bS15UGZGWHBEeVlISC1ONWl1d09oeThwTUlnS0NIaGRr?oc=5",
-      "source": "vivirenelche.com",
-      "pubDate": "Thu, 12 Feb 2026 23:19:35 GMT",
-      "imageUrl": ""
-    },
-    {
-      "category": "Deporte",
-      "title": "Deporte y solidaridad en la XIV Carrera Monumental de Segovia - El Adelantado",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNSHVEUGNlbEFNd1hmX0k2VXBHRTVtRTBkSEFGYXdCZHlJRDJrNzRWbm5LTzVVR2tLeW9qdXFGallTVTVBeld0ajZWSDJhUjJvVHhEcVJBRkRBRElKODl1cUVRRjNQYmVTZlNSSTlLcnVTMjFqbHdWUEE2ckc2TV8zX3MxV3AyR2N5V0FONS1fdjBUWnRmSXVDV09mMjZ5LVJUT1lieGpZX2Y3X00?oc=5",
-      "source": "El Adelantado",
-      "pubDate": "Thu, 12 Feb 2026 23:08:42 GMT",
-      "imageUrl": ""
-    },
-    {
-      "category": "Deporte",
-      "title": "Cáceres, Patrimonio de la Humanidad, deporte y nuevo escenario para la escalada de alto nivel - El Periódico Mediterráneo",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPS184VG52ZFZ4YTRVRXRvLUxJT2xHY0V0VWNkTkNIeDRPeVh0aEtrT0d4TGo4LUsxcnp2LW5zVG9JQzRFZHhpZWx4SzlRVTVOQ3FwcVZvR25jaTNKelprM0xKQkRmaWN4OVBPYnNlN2J3VGIzVnpGMWxkdGhfdjRnTndPVk9PTGdhR2ZpdFV5ZU4zeHdoaVdRdTl6V1Bhdk1lVW5ObXE2Ql9tUkZGcTFONlAzWHZWRUdsOGZQLdIBwgFBVV95cUxNc3d0RXVVT2VxOTI2aEJHTDRNSHpIbVluSE96SjN0UDZCclRXQWQ5dVBadG9wNjZjdGVwdWtwOGtfaXlsaUVwanF4Uk14NVZPUmtnRkxFY0pXanhqUklqeGtFOTBmcjdyc2lnX2xyRGJyLUhjLTNyN1pBRUdkOHZZT2dwUHg2YzA1aHhQOFN3ZFpWeGdXVm9ETHVYeElOYlZobGZIZnR4UGtGS0tGeU5lem9vY0hfaTl2V1o3VVU1VldkZw?oc=5",
-      "source": "El Periódico Mediterráneo",
-      "pubDate": "Thu, 12 Feb 2026 22:59:32 GMT",
-      "imageUrl": ""
-    },
-    {
-      "category": "Deporte",
-      "title": "Agenda del Deporte Burgalés del 14 y 15 de febrero - Revista Forofos",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxON1FXNnhOd1BETGwzR2s0V2plbUhzeUdXUWMxQXA1V2RvcmJQdjRCMVExeWNIQU55NHFYNlYwVHlPUzZEMVRVOUc2aHRjdXBIWDNkSlFxX3hMLWlITHV4ZENTTFYxNUs4ckN5UUFTRzhXT0VaRVFQWFNZeHZZWE9Ta2tKSEE5cVh4WlFyMTNQVzlZMEFEamVhaA?oc=5",
-      "source": "Revista Forofos",
-      "pubDate": "Thu, 12 Feb 2026 22:41:42 GMT",
-      "imageUrl": ""
-    },
-    {
-      "category": "Deporte",
-      "title": "'Chamba', un ultraman en recuerdo a Miki Roqué: \"Cuando le diagnosticaron el cáncer, yo quería ayudarle\" - El Mundo",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNWEZCSnhLd0NHcE5hTGhUMmRxUmdFNlhESW0xdEFLdVlWQlcwWUpmOF9yRVFoblExZC1EU1U3Rmh4ZEpTNzVpM29Fa0Nhc3VHQTFQcFFDclZHN0p1Q1pISmUyNGJxemk3QzE1TDBEcUFBaTZjRmNXSGxxa1FfMkVuWnYybG0xYmV1dEFjd9IBjAFBVV95cUxQVTlLUmtSaEpiTHBMbDJRcWdWX0cwR3E0QXpnMlZiUVpZT1RJbk9mUWNYeTc1WHZOQWNYSXI5QXUtQUxEcHZmVzNZTm1sb0UzdFliVzd3Vm83ZEFVNVpQTWZ3c2lXQ1NGdXhmakZmempTN3BCZEw4RFhMVVpkS2ZPNnZ3bXVKRWtVMHZZRA?oc=5",
-      "source": "El Mundo",
-      "pubDate": "Thu, 12 Feb 2026 22:38:12 GMT",
-      "imageUrl": ""
-    },
-    {
-      "category": "Deporte",
-      "title": "Montañana da explicaciones: «Es un deporte de precisión... y no han entrado. No es un fracaso» - Salamancahoy",
-      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNOGdZTnpXWlpYYzg1bFk2M1VsSmZMSFo0QURiaGJscWNxMGxGWFQxVjRfRlFmYTlUYzF3NFJDLTlfOHd0djRPcFp0ZlVaaEQwSVVnak1jUnZiVno1dWdGQmYxdy1pbjFBZUdQTlExck8tN1EtNEZISGVhdTdXeDJ5TTR3aFJybHV5MV9QeTNrTFRwRXlDMVdvR2hwWGk2U29RQ1MyRklhSmhfNnN4NE5XZXJ0eHRpWkU4MUdSUWFOeXdmM25WNUwyb2FkZzMxa0JxSU9V0gHYAUFVX3lxTE1wT3c4UlZEZTFRZ3dwbTl2N2V4RVp2cjRSc0FYNlBrUVlpWlo5WVJMWVF4YktqM3hZMHBmZkQzZ0dLeV9LaXc0bGJQZlV4QjRqR2wtQWg5WDZhYWN5Tkl0cEFCMXVsSW9wbXNXZUs3Yy1GTFE2M2ZTUGhKQ1hXT1ZHb1dPWEtHNTJWMktiXzRXekw1V05ZbkVnd1EzdlRvWkMzUV9od2UxdUpIRWZGQ2UyNnFBZUlLMEN6RlZXeVRVdy13bEUyUUdUR2R1VEp3QVBnSWpqLW90VQ?oc=5",
-      "source": "Salamancahoy",
-      "pubDate": "Thu, 12 Feb 2026 21:56:52 GMT",
-      "imageUrl": ""
-    },
-    {
-      "category": "Deporte",
-      "title": "Ana Peleteiro (30), sobre sus inversiones: \"En el deporte se gana mucha pasta, pero se consume muy rápido también\" - MSN",
-      "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxOUWJybktHNzdycG9EeXkxYVdEbWpsYm9BYlZ2Z19Rb1dLT3VyZHlGS2s2U2lSMFk3dlhMR25fbVEzOHF6RGtOclRWUWlCdGRNSHVKSmY1TjR4NmVUS25JQkF5Rkd5MVY3TW9kV2lRUENnWHdQX3RzdWhPbllnZFNEYmNKYnUxOXdJUDVxcDNIcTRWOGI3WGMySFlEUTVKNWlHUVc0eFI3a0VmWHhwaG80ZzBBQ2pNd09KNWNrS0NxeWhCU0N1U2xSaEdaVUJQWmdLeTlOS0pLdlVwNnpGclVna0dnVi1adWZ0Z1ViS1ZVX3BhbDI3c0lEUjk2RDZzeUtC?oc=5",
-      "source": "MSN",
-      "pubDate": "Thu, 12 Feb 2026 21:04:43 GMT",
       "imageUrl": ""
     }
   ]
