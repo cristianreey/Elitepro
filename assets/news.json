@@ -1,77 +1,93 @@
 {
-  "updatedAt": "2026-09-05T20:00:16.883Z",
+  "updatedAt": "2026-09-06T03:17:36.789Z",
   "hoursWindow": 168,
   "items": [
     {
       "category": "Deporte",
-      "title": "CB Cuenca-Atlético Getafe - El Deporte Conquense",
-      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5yc1RNaGZMRi1TakNIQTZfdDNCOFhXNUtaTHRkcnJhamt1QU9MVmZPNTRfUEZ5dEpMRVctdmpDODBHcmR1ckh6eFByQUZyLWVmOXZNMUFsbmNwYy1aY096elpMS3NSblN3eDlOVTkwNmo2Nk5BakIwa25n?oc=5",
-      "source": "El Deporte Conquense",
-      "pubDate": "Sat, 05 Sep 2026 19:35:58 GMT",
+      "title": "Gonzalo Retana, campeón de Europa de golf sénior: \"Es el deporte ideal para los mayores\" - 65ymas.com",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPenMzUzhXOFNYMUpVSkpydzFQMHJzZXhkd3VDRi1zYVA3Tk9aQjU2b0tlQThKTGZQYkFPaEVXLTl1eEZITzZxN3J0RXBOZWRSZlhCcnBycFdCNlV4YUxKbEVyUGJDaEcyWWN2b0xVQmVEWVVsVzNjRDN5aktWeUVzdG5iaEs2RW00MXJMeWpub2ItRVU2MTAyQ1M0bFc4YnNZak1ha2cxT3B2NmJrb0tCYzlWcnVrczhhMlVWdw?oc=5",
+      "source": "65ymas.com",
+      "pubDate": "Sun, 06 Sep 2026 03:00:00 GMT",
       "imageUrl": ""
     },
     {
       "category": "Deporte",
-      "title": "Las instalaciones deportivas municipales reabren este domingo tras la evolución favorable del incendio de Los Palancares - El Deporte Conquense",
-      "link": "https://news.google.com/rss/articles/CBMijwJBVV95cUxQWHFWYnQycnNSVUdGNVBlSURkMHVNa1RoRjB3M0xlbGRyeUxFZWNMOXlfN1k5QWlQXzdyRlNpa0RoVnQxS21ZajNDVTNUUmVDLXBWWjM0aU9peEY4MTRtaVZ1Rm41dUUxVlV2ejl4S18wb1RWTUZDXzZCNWtKUWxWamVaMGQwZ0hrSWhxZUZYUjlvUTNaNjFQTDFZUnJDMF9iaDZMa19jVS1NbFdobHhpbEZHVzdMYnl0VmtRTC1WWGVLYmpPT3VLQ3doa3RhWFJKMFlZaTBIVkRFUUhJbjNHOS1CdFB5LV9FQWw2cnZWQk9WaDh2RUhocGVQaENRc1ZKbllzUFVzWkl6Skp6T1Fj?oc=5",
-      "source": "El Deporte Conquense",
-      "pubDate": "Sat, 05 Sep 2026 19:30:04 GMT",
+      "title": "Santa Fe 2026: Se inauguró la sede de la natación de los Juegos Suramericanos - SwimSwam",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxONEhiamhYYkR4V00wNWpHbEhhX2R2VnBDelBWbTRNN19acTlzSzMtd0dITzlyTmRyVm1qbXNfMFpTM0ZhaXJyekhBZHZOOVl5TjZmVWxfYnBZdDdXOXNMbncxMEZ2Zkgtd2l2SW5jTUFJSXhjbGRkcFZWMnNXZWtLMlFUcEpMQlJyMk9jX0VhX2c3dFdUMjRrd2o2Z3JScXc?oc=5",
+      "source": "SwimSwam",
+      "pubDate": "Sat, 05 Sep 2026 23:07:48 GMT",
       "imageUrl": ""
     },
     {
       "category": "Deporte",
-      "title": "El Club Natación Santa Olaya arranca sus fiestas - El Comercio",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPYy10SWxLR1c5RUdfd0t3SFRXc3E4VHQ4LXZYNWxWLVUybnpoYUZ3TXdueTRDLUZZQ0lfMWdiWHBRTEltZlYybTJUUTkyUkM0ZXUxT1hfeXhuVEQwTU5PeHdSeGZQdEpobkdYTG5mSFV1M3pvVjdHY0xadUtIYjJzT1czLTY3MURSajRFQ0s5RzJjbjV0c2ZNelNBYXI?oc=5",
-      "source": "El Comercio",
-      "pubDate": "Sat, 05 Sep 2026 19:00:19 GMT",
+      "title": "Valverde destaca el crecimiento del deporte provincial tras el triunfo del Pozuelo en la Copa Diputación - Lanza Digital",
+      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNbVBGaW55d1FyYktXRmNISG5OLUVvWDBuejZMZ0NEM3JHMGsyeEw5dnJoV25UMWpnMkwtSGJKSnFCUDU0X0xQRkdWTW5meElaSGhyOENvYnhoTVU5Y0xPMXVYclhrOTNnSkd0LVNueFJJekRnWERoMjNxVWIweE90SGdwZ3FiLUFJUU5kVFVXWUJYZ3htZjJydXFVTVhiMVpDMWhnSUF4RDlhRl9VaXZaWG11a09PenFTU2lpd3Nib0JXYkxBZGVHN2J5N0dxU1hSTFRsOExhdnhHM03SAeABQVVfeXFMUGxpbDJ6V3FFYmUtXzRWZHYtdzJMY18zNThEVDd2YXZqUTdDSnpqazNIQVRQamJmaFdWMGFKdlgzMHRTRzJOSWJDcmQ1cEdtM0JJMjZzcWNYYVI5TDQzS1M2YVJwSUxwTEV3WE1CNFVaUHoyOTk5U3JtVU44a3Zwb1lFT01uZTUtN1RKX2xES2RZTHRaNWRuME1sMVA2dmozMmp0c1VTRkJrWXlTUGJsME0zdkRITHZYQ2VhbXNKMHFpNDNTUlNfbWtvS2ZlSHlkaWMyRjBMb0pwNUlYbHNpRHo?oc=5",
+      "source": "Lanza Digital",
+      "pubDate": "Sat, 05 Sep 2026 22:10:16 GMT",
       "imageUrl": ""
     },
     {
       "category": "Deporte",
-      "title": "Jonathan Brownlee se retira y pone fin a una de las grandes eras del triatlón - Triatletas en Red",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQczkwcE0xWGRVTzAySWd0OTctdXF1cl9yeEhldjdjWUFXY2NNQ01Bam92NXEybEtXUmREY2RzclhLU2xqeUNuZlBrWWV2U3NkQWU3Sl9pOTJuS2o1NWgzeDFDMG5uY1p4WEVUb0VmTHF3dlBnZ1l4ejN1Y2k5UXFRRTB2YXBsbUFid3NHV1hUYXczc1pMLV9lMW1waV9jeEVCX2pCcm1IUGNyVXh4LTBlZG9rSjktRElsX1RB0gHAAUFVX3lxTE5mNDFDdk8tczZNRm1SMEZydmhxLS1PeVRPTlBEUDJlbFJ3UWpPQXpXRW9yQTN0cXBwclRTNm9GNkp3Q0NtUVlkdFhGWXpuNWNRMXVtLTlEdUxuS21IbWFrVU1yb0VRdXFBcVRRMXZVbHlpS3d0SHdvbjd5X3d2NE5QQ1VOaHR5V3hlTnJWRWt6aHEwMHQybUduTUlxREFyZF9IcHNVNVFVU3VyLVlEMEVlTXBlWVZIOHlybU5xbWJkMQ?oc=5",
-      "source": "Triatletas en Red",
-      "pubDate": "Sat, 05 Sep 2026 18:33:13 GMT",
+      "title": "Resultados Austria Triathlon Half 2026 - Triatlón Noticias",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPYS1lMmJyekw5TjdJUG85UlJfNl8wZlREM3VKOW1DbThtUGtQUkszd0RuZGd2R0FUcTUyejI4MVN5eHpOdDc2QTJnTXk4QlhqckJqblZ0ZkhObXRxejg3aDN2b2VreHEteDVnMUFRNGVvcEkySkpxZ3NGOTVXRkxQSUFqNk9sdFpmQlpz?oc=5",
+      "source": "Triatlón Noticias",
+      "pubDate": "Sat, 05 Sep 2026 22:09:06 GMT",
       "imageUrl": ""
     },
     {
       "category": "Deporte",
-      "title": "Valencia de Don Juan apuesta por la igualdad y la convivencia a través del deporte - Ayuntamiento de Valencia de Don Juan",
-      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQMXJmVnhtN2JLOE5vM3c2WkI4cE1KbUdWQzBaSE55TkRpVHc3N2o5TTNsRkFtOTJtY2ttdjZ2cERnZEh0ejdDMUUyOVZ1VjhickVkVWl2bEkwRDA2MFA0ZHZpZ0JNd0k2RzBVZGxJRGRnR09fMDZSaGdtUU9EZ0hpMTV6SXFMUGxNaTExcFVVekZaakxsXzVLdmJkeWRFUVNvSEdnNlhDa2Fya1hlTG0xWk52V0VwN0VGTnRBdFViM3dVanNOU3c?oc=5",
-      "source": "Ayuntamiento de Valencia de Don Juan",
-      "pubDate": "Sat, 05 Sep 2026 18:14:53 GMT",
+      "title": "Speedo IQ, para la natación exigente - naiz:",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNcVhZY185M3ROWnR6N2RWdFQ2S29GQXdXZkpHZ1FFcXFob2cwMWp3WkpCQ09Xb0lnNjliOEJ2Yl8tOS10UVdWZkFhN1VUVmlCNWhBdzRfNFNubTZjWUVVaEItY1B5Z3FqZ2NIdWRDaGhRWDJDaDVMeENkdVREdnVsYU5lREpiQU9wT0k4Y2dQY2FQT2lwMzVvMVRXTVRKOTVaZXF2RFJrcU10TnlaWWcyS3h1UEE3cjlKWXRiOFVCSdIBxAFBVV95cUxOakN0cldqRDJXNEM5VGtCMDZVMk92bkc3QmEtUG5ocXVTVDdDNHI0M3RrNFdEdGZqRUxUZ0IwTnphUVQweWVBVmNRS3dsRTB1ZVhCVmkyYXFTRGRUWmc1WFI3ekYwb1dQUVgxM3lzcHBNSHhaSW1CYVdjcmdzdmhibTEwM0t1a0RHTW1zM0YyeWRueDFxbWxxQ1BLZHd5LVh0UEZOOVRGa1dmMnktcGM0amlYSXgzZFp6T1hrTjRYTDN4VnFX?oc=5",
+      "source": "naiz:",
+      "pubDate": "Sat, 05 Sep 2026 22:00:00 GMT",
       "imageUrl": ""
     },
     {
       "category": "Deporte",
-      "title": "El IV Triatlón Cros de Menores reúne mañana a 78 deportistas en Montilla - Montilla Digital",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNSGZreTFvZnJpbjVDeDFtSldtMU1pQzBlQlRNRG5sZWJPZFFVN0gtZzY3V214VUlNX2dRNGVNTnlSVjdvbmN4NVV3d1FIM1lLTVZYSm15ZjNydWMwYmQwT2VpcGxlT19rN2c3RjdQT0pSVjRTcTdKUkVvNS0tQXNYVGhvdHhhVEJmX3c?oc=5",
-      "source": "Montilla Digital",
-      "pubDate": "Sat, 05 Sep 2026 18:00:00 GMT",
+      "title": "Speedo IQ, para la natación exigente - naiz:",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQWmhIdWpjcFlvUlpKbG1jZ3NsX3ZNVjdtd3FrZ21HS2tDOHY5cXlSc1I0YkkwaHE0N3RUdWM3VHM1b25TRjViZ0VzWlBGeUd0ak9OMXJCbUpJVzFWdHl6N0lWLUdGUmhaMDg4eDg3VE80MEtxWXdPbDhtZ2loVDZ6cGFYellnb2FCVTVSWDZhbWtzR3ZuV3hSa3R0WkdCSGRYSm9SWnlKREt0bVpxQkM2Q3BqcVZvV3RfVjU0Mmh5MNIBxAFBVV95cUxOMDhVQ011cVk4dUlyRG9LUXFQVHR4NHliNnZwY0lxV2M0aUJGTDQyMkU2YXRTLVRxeUNTcDBxRWlaSHdLQ2JkU25OV19odDg2UHpOcjVhQ2RBUVhReHB2dFAzMzRGb3pZUUV1emNlZkZRSmRnRWt6N0xvWkZzbXJPYjhHWHRBQXNsZ3R1ZU1MOWw4MjRDZHpENEo1LWNMTDZyY3FDQWtIUW1YRDFsWHdfa0FKd1Y5VEJuSEVjejczcWhtMjhP?oc=5",
+      "source": "naiz:",
+      "pubDate": "Sat, 05 Sep 2026 22:00:00 GMT",
       "imageUrl": ""
     },
     {
       "category": "Deporte",
-      "title": "El Downwind Jaime del Águila une deporte, recuerdo y solidaridad con Ceuta en Tarifa - diarioarea.com",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQWE1admM2UDRpeTMtY214R0RSVzlKZG5uSE5TblNORTlIZXJuZldrMFJJT19pTHVydWhpQmZvSkhMemxkNVp6UzgwX3VOLTk4dm5qQzZMQzJSalM4YnNZeW92bFM4S2VjLVFnZU0zbTN4YnM4d2tFRUlmRTJydEwzcjF5OFF2TWY5elRVU1VoVF9vN2F6aERQc3FSMWNpRWVYUkdpSQ?oc=5",
-      "source": "diarioarea.com",
-      "pubDate": "Sat, 05 Sep 2026 17:53:28 GMT",
+      "title": "0-3. El Poio Pescamar debuta con un cómodo triunfo - Diario de Pontevedra",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNMXg5NFpJZXVjWWJUV2VGX0lBSTR4MTFJUmIwdmJsSEMtTjAwNE9ReXY0Z0dYYWV0ZEdydS1lbE9wVzhkQkhPZVJSNzFzMU1DbjdMYWVXVFlVLVpBMkxGTlF5REltajhRelR1cDNtNEluVzlxc2Z5dEV5MDh3ZG1FTmFlc1pBbGJfNDJmZ3IxakF6WFRhLUtKWWxSWWNJODBCR2ZYdzlCTDh2Tnh1WXlFMTRjcUNGX09J0gG-AUFVX3lxTE8tMFdqQXpsUmhTdzFYNkR6QmRlLVE3cHFCSTZqV0FJYlowSlY5ZEh4NWJla3NHQmhadUxvdWNfMXlKWFZYc1pWbU9vSVRrZW1BMVEwTEx5NDhwaFd0bzJmV1FYNWhReTNlLTRoLUsxWkxZUElnUklWUV9VMlZGNjdLNnJidkxqNmFzZXhFOU9fS0dNUkdVVmM2R3FCN1BtVlRoSTA4TXFaWTVicjlxUlN6M1llUTN4UGI2WGNBQmc?oc=5",
+      "source": "Diario de Pontevedra",
+      "pubDate": "Sat, 05 Sep 2026 21:58:07 GMT",
       "imageUrl": ""
     },
     {
       "category": "Deporte",
-      "title": "El río Duero, un ejemplo de deporte solidario e inclusivo - Zamora24horas",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOYXlhT1BMUVd2NWRLWEZSNzJkaW5ySzdxcUdneV9fV3JzMHU4N2VXTi04bElOWW1mX2RGNkR4QWluOEVBbUM2QUdyanVZMUIxVXozMkkxU1FsdmxISkFMRmZTcC1YSU5ZTjZOR3JEbWU4cGM4WlRRWElJVjJQRFZHek1OUUZMUnF1ckpXY1NaZw?oc=5",
-      "source": "Zamora24horas",
-      "pubDate": "Sat, 05 Sep 2026 17:47:40 GMT",
+      "title": "TVN ya piensa en octubre: las novedades que tendrán en el deporte - Ojo a la Tele",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOWVpRMXJPaWxtUkNNbzZkUEh2Q3hfZHJBa1dNdUgwZHhMSk1ORzlqUXE4Z1RiZHFINjlkZURwdWxOVzVuRUtMaEFCNThJVk5FZk9YVG03Q1g4WDFjZmtIYnMtMWwtYnp2bDB1dktwVElfd3FzRDBDYjRkWWFLOTVUcnZROGFDeXZwMjRDMVdhc1VFNy1COVRSMkNYR08?oc=5",
+      "source": "Ojo a la Tele",
+      "pubDate": "Sat, 05 Sep 2026 21:26:11 GMT",
       "imageUrl": ""
     },
     {
       "category": "Deporte",
-      "title": "El Triatlón de San Esteban regresa este domingo con 145 deportistas y el Campeonato de Asturias en distancia Sprint - Europa Press",
-      "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOWWxnTUNZTTFaYlRSUHlMMHZDUTRCWGljUW1UczlNQkdWQmNEVngxa2dqX09RZUp0WGluYWtGOHMtMXFVeU5fVnE5VXd1WEc1R0FJZU5iNHZKU2ZDOVEwRl9ZRHNsdHFMeTRxbUV3eEJtT2NfNVFBTDFRVGc5RzBmS3VlRUxJM1NSY1hJbkRmSUgzaXVHX0VwRmNWb0pmZnpRY2xDb0NwSzRjVlRRODQtX0ljYU55U3ZGcF9tbEVGd3Jhbnhfc1dZWlluTkh5S01VeFB5YmRRUml2TXZ1V3JQVUV0c2dVQ295?oc=5",
-      "source": "Europa Press",
-      "pubDate": "Sat, 05 Sep 2026 17:26:48 GMT",
+      "title": "El Gobierno regional reivindica el potencial del deporte como dinamizador de turismo en las zonas rurales - CLMPress",
+      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPZnBJOEItOS1IYlhrbjVYVWlWcWZ4eVJJT1JUNElsRHhNX1hUckRwZlVYNEIyYl9KenN4d2xZWnMtVnRKblVLNXF1OTRXVGl1d0dZZE1BeDFBYzAxblZNcXl5V2FtUlJpbEl2cmhJV1g5MGZfNXVPOXhTaXJkb3M2N0JWZVdDOWVPWF9KUnRlTkZRSG9HZGdIRjRzOFF3WkczcHZmY2NNMmNkanlOSGstb3I4VTF3SzR5OTJpdEh6bmRMcjZNZHgzbDdMQk9GWWo3YWtj?oc=5",
+      "source": "CLMPress",
+      "pubDate": "Sat, 05 Sep 2026 21:07:58 GMT",
+      "imageUrl": ""
+    },
+    {
+      "category": "Deporte",
+      "title": "El Triatlón Trijúcar-Ovimancha reúne a 350 participantes entre Honrubia y Tébar - Objetivo CLM Noticias",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNMXNKMUZqVDV2NDN2UUZDOHRvNTFZRTBXcnRUdm5QNUNKS2ZSRXFsanp2QkVvT1pHcmFLLWluSjR5M3lIVEF5TjRPdjZPVk5KbzE1aGE3S0dfNDRRUWh3dWRpN204b1psTkhiZEpuSDlJbnJXNGtyU1pFSzgzZFpPTUxDNTJQbGRodnRiZkthUVpxRW9pdi0yNlltcHIxXzlXcUVvRmhMSTBpM0dRZzdac1VINVJxQXNSaXdvSGQ0LS1Udw?oc=5",
+      "source": "Objetivo CLM Noticias",
+      "pubDate": "Sat, 05 Sep 2026 21:03:46 GMT",
+      "imageUrl": ""
+    },
+    {
+      "category": "Deporte",
+      "title": "Viktors Vovrusko y Katharina Voelkel se proclaman campeones del SwimRun Anfi Gran Canaria Mogán en el que se celebró el Campeonato de España - Federación Española de Triatlón",
+      "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxQYUNadi1xWlhFR2phTVFxTmpyQ1Y2WVFwZWd5S284c3VyUWcwWHNzWkdrUGFHQ0lITkxJYV9UYkFOa0MtUXg3ZDJQM0RnX2VzSkdSdDBoWW83R3llRi0zNDhxemZHSVBsQ2cxX2hUSXl0MHgtRTIyQkpNc3g2a1dmdjhxbEQyaXQxc3BIcjZfTkNkb1Bqc3hHOXJJYU9RNjVCSXRDMkJqVnN6WUZtdk85eUpzV0dtM1JWYXJHYmJoWk5JNlZsZ3BFTE9uY2dmaVEyYk1aN3hhNy1qV1QtUFpwU3ZtXzNiejJlaWg4SzNVRnFpYXRMa3dMZWd4M29rU19h?oc=5",
+      "source": "Federación Española de Triatlón",
+      "pubDate": "Sat, 05 Sep 2026 20:39:19 GMT",
       "imageUrl": ""
     },
     {
@@ -79,23 +95,7 @@
       "title": "CONCIERTO DE SILVIO RODRÍGUEZ - Zaragoza Deporte",
       "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1MNXhjVVhNQjVrNkNTbV9GUnhMdU5QMjFzWGZHVk4xbV9vWHMySjQzZVhSSXk5OGFRd2NUZk81ZjVPV2hPRG9SbG9HRU5aNTNOZ3RRVndyOHg5UQ?oc=5",
       "source": "Zaragoza Deporte",
-      "pubDate": "Sat, 05 Sep 2026 17:22:15 GMT",
-      "imageUrl": ""
-    },
-    {
-      "category": "Deporte",
-      "title": "«Me presento para ganar, porque creo que este es el proyecto que nuestra natación necesita» - cantabria directa",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOVjRGQXExRzdnVmV2TU5uT0pVYnZ1aDJDbWk5TmhnTkpObGwwVFE3Xy1JMEV1MGdFM19tS3RFY1c3ektfNmh5MW1Ga080TXZpdzZsZUJaWUxaNHJ6dEZLdGtoMl95bTdWRDVSbjZKcjZsTnN5NFFVTWtnNElZZ21oY3dTSlQ4N09hMVZwdUVqekRDY2d3czBXRjAwSQ?oc=5",
-      "source": "cantabria directa",
-      "pubDate": "Sat, 05 Sep 2026 17:10:35 GMT",
-      "imageUrl": ""
-    },
-    {
-      "category": "Deporte",
-      "title": "Los ganadores del triatlón IRONMAN 70.3 celebrado en Bakú fueron premiados - AZƏRTAC",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQakt0WWFxd0wwdWszM0hWR0VNbUZLMmhSUmVzeVdfTE11TGkxVW9pM2w0NjdGUGFoaFZzdUY3ZGV0bGJmRUZIYzhuR3FuUWRKWXBxN0VmZkZVV2lrenlUWGhHbk5yeGRyaWR5QnpETXBjMVgxdHFuNkpPSUN4dkxDbVpCWm9LeC03VVhFVlVhLVFiNlF2QW9vOW5YTUUtYUxQYXV0aVBha19lSXVv?oc=5",
-      "source": "AZƏRTAC",
-      "pubDate": "Sat, 05 Sep 2026 16:53:00 GMT",
+      "pubDate": "Sat, 05 Sep 2026 20:29:39 GMT",
       "imageUrl": ""
     }
   ]
